@@ -1,4 +1,5 @@
 # Amazon-Clone-
+
     The Amazon Clone is a static, responsive web page built using HTML5 and
  CSS3, designed to closely replicate the layout and user interface of the
  Amazon homepage. This project features a custom navigation bar with a
